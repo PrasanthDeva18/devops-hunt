@@ -1,0 +1,19 @@
+{
+  "name": "Prasanth",
+  "Name": "Deventhiran",
+  "section": "B",
+  "roll_no": 80,
+  "is_passedout": true,
+  "working_company": [
+    "Agilysys",
+    "Deloitte",
+    "TheCloudCompany",
+    "Artizence"
+  ],
+  "Address": {
+    "street": "No14, Javuli Nagar,",
+    "area": "RN PUDUR",
+    "city": "erode",
+    "pincode": 638005
+  }
+}

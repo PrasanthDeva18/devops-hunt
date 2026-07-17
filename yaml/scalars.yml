@@ -1,0 +1,30 @@
+person:
+  fname: "Deventhiran"
+  lname: 'K'
+  gender: male
+  weight: 95.5
+  section: B
+  roll_no: 80
+  is_passedout: true
+  is_india: YES
+
+  # working_company:
+  #   - Agilysys
+  #   - Deloitte
+  #   - TheCloudCompany
+  #   - Artizence
+  # Address:
+  #   street: No14, Javuli Nagar,
+  #   area: RN PUDUR
+  #   city: erode
+  #   pincode: 638005
+
+  hex: 0x12d6 #evaluates to 4822
+  octal: 0o24432 #evaluates to 10522
+  postive-infinity: .inf #evaluates to postive infinity
+  negative-infinity: -.Inf #evaluates to nrgative infinity, both Inf or inf value as valid
+  invalid-number: .NAN #Not a Number
+  null-value: null
+  null-value1: ~
+  null-value2:
+
