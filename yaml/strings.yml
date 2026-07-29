@@ -1,3 +1,13 @@
 name: prasanth deva #for plain style some of the devops not support the spaces in the plain style.
 single_quote_key: 'test : 2'
 double_quote_key: "Line1 \n Line2 \n" #in the double quotes we can able to give the next line.
+
+literal_block: |-
+  prasanth is a cricketer.
+  prasanth is a software developer.
+
+
+folded_block: >+
+  prasanth is a cricketer.
+  prasanth is a software developer.
+
