@@ -1,0 +1,5 @@
+basic_date: 2002-04-24
+timestamp_date: 2002-04-24T10:30:02
+timestamp_with_timezone: 2002-04-24T10:30:02+05:30
+timestamp_with_space: 2002-04-24 10:30:02 -5
+timestamp_without_timezone: 2002-04-24 10:30:02

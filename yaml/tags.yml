@@ -1,0 +1,5 @@
+age: !!int "20"
+value: !!binary |
+  test the data
+
+#!!bool, !!null, !!float, !!str, !!int, !!binary
