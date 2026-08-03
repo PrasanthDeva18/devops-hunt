@@ -1,0 +1,12 @@
+employee: &emp
+  name: Jack
+  age: 25
+  city: Chennai
+
+employee1:
+  <<: *emp
+  age: 30
+
+employee2:
+  <<: *emp
+  city: Bangalore

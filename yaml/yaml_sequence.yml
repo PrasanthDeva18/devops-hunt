@@ -1,0 +1,51 @@
+#block style
+hobbies:
+  - playing
+  - reading
+  - walking
+
+#flow style
+applications: [frontend,backend,devops]
+
+# nested sequence/sequence of mapping with mixed types
+students: 
+  - name: Prasanth D
+    age: 20
+    college: MIT
+    favourites: {subjects: [S/W development, Devops]}
+  - name: Vennila D
+    age: 40
+    college: MIT
+    favourites: {subjects: [S/W development, Devops]}
+
+#Mapping of sequence
+
+# flow style
+departments: 
+  engineering:
+    - S/W
+    - R&D
+    - App development
+  marketing: 
+    - META
+    - GOOGLE
+    - SEO
+
+departmentss: {
+  engineering: [],
+  marketing: []
+}
+
+
+#set 
+cities: !!set
+  ? value
+  ? val
+
+#ordered mapping
+
+district: !!omap
+  - USA: Washington
+  - UK: London
+  - India: Chennai
+
